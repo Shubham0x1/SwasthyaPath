@@ -23,18 +23,6 @@
 
 ## 📂 Project Structure
 
-mini_project/
-├── public/
-│ └── index.html
-├── src/
-│ ├── App.js
-│ ├── index.js
-│ └── index.css
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-├── style.css
-└── README.md
 
 ## 💻 Getting Started
 
