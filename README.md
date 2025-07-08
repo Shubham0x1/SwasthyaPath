@@ -25,20 +25,24 @@
 
 1️⃣ **Clone the Repository**
 git clone https://github.com/Shubham0x1/SwasthyaPath.git
+
 cd SwasthyaPath
 
-2️⃣ Install Dependencies
+2️⃣ **Install Dependencies**
 
 npm install
-3️⃣ Start Development Server
+
+3️⃣ **Start Development Server**
 
 npm start
 
 Open your browser and visit http://localhost:3000 to see the app in action.
-🙌 Contributors
+
+🙌 **Contributors**
 Shubham Gusain – LinkedIn
 
-📃 License
+📃 **License**
+
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 💡 Suggestions or Issues?
