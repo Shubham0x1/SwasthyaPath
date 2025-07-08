@@ -24,8 +24,8 @@
 ## 💻 Getting Started
 
 1️⃣ **Clone the Repository**
+```bash
 git clone https://github.com/Shubham0x1/SwasthyaPath.git
-
 cd SwasthyaPath
 
 2️⃣ **Install Dependencies**
