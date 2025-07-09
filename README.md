@@ -7,7 +7,7 @@
 
 ## 🚀 Features
 
-### Symptom checker & health tips
+### 🩺 Symptom checker & health tips
 - “Integrated a symptom checker and health tips feature for personalized wellness insights.”.
 
 ### 📊 Personalized health suggestions
