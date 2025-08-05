@@ -5,6 +5,8 @@
 
 ---
 
+🌐 **Live Demo:** [https://swasthya-path.vercel.app/](https://swasthya-path.vercel.app/)
+
 ## 🚀 Features
 
 ### 🩺 Symptom checker & health tips
