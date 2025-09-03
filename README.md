@@ -4,49 +4,43 @@ SwasthyaPath is a modern web-based health tracking and advisory application desi
 
 Live Demo: https://swasthya-path.vercel.app/
  
-GitHub
+***Features***
 
-Features
-
-Symptom checker & health tips
+**Symptom checker & health tips**
 Integrated a symptom checker and health tips feature for personalized wellness insights.
 
-Personalized health suggestions
+**Personalized health suggestions**
 Offering symptom-based tips and daily wellness guidance.
 
-Fully responsive and mobile-friendly UI
+**Fully responsive and mobile-friendly UI**
 Designed for seamless access across devices.
 
-Styled with Tailwind CSS
+**Styled with Tailwind CSS**
 A minimalist, modern look with consistent UI elements.
 
-Fast performance and smooth transitions
+**Fast performance and smooth transitions**
 Optimized app performance with quick load times and fluid UI interactions. 
-GitHub
 
-Setup Instructions
+***Setup Instructions***
 
-Clone the repository
+**Clone the repository**
 
-git clone <your-github-repo-url>
+git clone <https://github.com/Shubham0x1/SwasthyaPath>
 cd <repo-directory>
 
 
-Install dependencies
+***Install dependencies***
 
 npm install
 
-
-Start the development server
+***Start the development server***
 
 npm start
 
-
-Open the app in your browser
+***Open the app in your browser***
 Navigate to http://localhost:5000 to view the running application. 
-GitHub
 
-Usage Guide
+***Usage Guide***
 
 Register and create your secure health profile.
 
@@ -59,8 +53,7 @@ Receive personalized nutrition plans and daily wellness tips.
 Connect with specialist doctors through a verified network.
 
 Track, update, and share your medical history securely. 
-GitHub
 
-Feedback
+***Feedback***
 
 Found a bug or want to suggest a feature? Feel free to open an issue or submit a pull request. Contributions are welcome and appreciated!
