@@ -27,9 +27,6 @@ Optimized app performance with quick load times and fluid UI interactions.
 
 git clone <https://github.com/Shubham0x1/SwasthyaPath>
 
-cd <repo-directory>
-
-
 ***Install dependencies***
 
 npm install
