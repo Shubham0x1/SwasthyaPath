@@ -1,4 +1,4 @@
-SwasthyaPath
+ #***SwasthyaPath*** 
 
 SwasthyaPath is a modern web-based health tracking and advisory application designed to provide users with easy access to personalized health information, symptom analysis, and healthy lifestyle recommendations. Built using React, Tailwind CSS, and modern frontend development practices, this project demonstrates clean UI, responsive design, and a scalable, component-based architecture.
 
