@@ -26,6 +26,7 @@ Optimized app performance with quick load times and fluid UI interactions.
 **Clone the repository**
 
 git clone <https://github.com/Shubham0x1/SwasthyaPath>
+
 cd <repo-directory>
 
 
