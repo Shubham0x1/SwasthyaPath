@@ -69,7 +69,7 @@ http://localhost:3000
 ## 🧪 Usage Guide
 
 - Open the app in your browser:  
-  🔗 [Health App Live](https://health-bsmt8129b-shubhamgusain886-5745s-projects.vercel.app)
+  🔗 [SwasthyaPath App Live](https://health-bsmt8129b-shubhamgusain886-5745s-projects.vercel.app)
 
 - Navigate through the **dashboard** to explore available health & wellness content.
 - Interact with **modules and components** to view details, stats, and resources.
