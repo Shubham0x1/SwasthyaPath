@@ -1,8 +1,8 @@
 
-# 🏥 HealthHub App
+# 🏥 SwasthyaPath App
 A modern **Health & Fitness web application** built with **Next.js**, React, and Tailwind CSS. It provides an intuitive interface for exploring health-related resources, managing wellness data, and more.
 ## 🌐 Live Demo
-🔗 [Health App Live](https://health-bsmt8129b-shubhamgusain886-5745s-projects.vercel.app)
+🔗 [SwasthyaPath App Live](https://health-bsmt8129b-shubhamgusain886-5745s-projects.vercel.app)
 
 
 ## ✨ Features
@@ -39,8 +39,8 @@ A modern **Health & Fitness web application** built with **Next.js**, React, and
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Shubham0x1/Health.git
-cd Health
+git clone https://github.com/Shubham0x1/SwasthyaPath.git
+cd SwasthyaPath
 ### 2. Install Dependencies
 
 pnpm install or npm install
@@ -84,6 +84,6 @@ http://localhost:3000
 ## 🤝 Contributing
 
 - Found a bug or want to suggest a feature?  
-- Feel free to [open an issue](https://github.com/Shubham0x1/Health/issues) or submit a pull request.  
+- Feel free to [open an issue](https://github.com/Shubham0x1/SwasthyaPath/issues) or submit a pull request.  
 - Contributions, whether big or small, are always welcome and appreciated! 🚀
 
